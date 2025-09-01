@@ -1,8 +1,4 @@
-# requirements.txt
 streamlit
 pandas
 plotly
 pymysql
-setuptools
-setuptools-distutils
-wheel
